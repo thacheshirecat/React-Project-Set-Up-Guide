@@ -4,6 +4,7 @@
  * npm install react-dom@15.5.4 --save
  * npm install webpack@3.4.0 --save-dev
  * npm install webpack-dev-server@2.5.0 --save-dev
+ * npm install react-router-dom@4.0.0 --save
  * npm install react-hot-loader@3.0.0-beta.7 --save-dev
  * npm install html-webpack-plugin@2.29.0 --save-dev
  * npm install babel-core@6.24.1 --save-dev
@@ -26,7 +27,9 @@
  ###### ? What format do you want your config file to be in? JSON
  * npm install eslint-loader --save-dev
  * npm install styled-jsx --save
- * npm install react-router-dom@4.0.0 --save
+ * npm install style-loader --save
+ * npm install css-loader --save
+
  * create webpack.config.js file
  * create template.ejs
  * create src/index.jsx
