@@ -25,7 +25,7 @@
  ###### ? Do you require semicolons? Yes
  ###### ? What format do you want your config file to be in? JSON
  * npm install eslint-loader --save-dev
- * npm install --save styled-jsx
+ * npm install styled-jsx --save
  * npm install react-router-dom@4.0.0 --save
  * create webpack.config.js file
  * create template.ejs
